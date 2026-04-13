@@ -27,4 +27,3 @@ streamlit run chatbot_v2.py
 **End-to-end ML pipeline**: Raw CSV → Production dashboard
 
 ---
-**Srigomathi S** | Data Analyst | Chennai | B.Tech CSE 2024
