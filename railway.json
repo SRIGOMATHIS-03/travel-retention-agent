@@ -1,0 +1,10 @@
+{
+  "$schema": "https://railway.app/railway.schema.json",
+  "build": {
+    "builder": "nixpacks"
+  },
+  "deploy": {
+    "startCommand": "streamlit run chatbot_v2.py --server.port $PORT --server.address 0.0.0.0",
+    "restartPolicyType": "ON_FAILURE"
+  }
+}
